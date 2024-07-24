@@ -18,3 +18,11 @@ A powerful and user-friendly application designed to secure your data with advan
 4. **Save/Load Keys**: Save the encryption keys for future use or load existing keys.
 5. **Decrypt**: Use the saved keys to decrypt the encrypted text, ensuring data accessibility only to authorized users.
 6. **Logs**: Each encryption and decryption action is logged automatically, providing a comprehensive record of all operations.
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/Pinnacle_labs_Text_Encryption_Tool.git
+   cd Pinnacle_labs_Text_Encryption_Tool
+   pip install -r requirements.txt
+   python encryption_tool.py
