@@ -23,6 +23,18 @@ A powerful and user-friendly application designed to secure your data with advan
 1. Clone the repository:
    ```sh
    git clone https://github.com/yourusername/Pinnacle_labs_Text_Encryption_Tool.git
+2. Navigate to the project directory:
+   ```sh
    cd Pinnacle_labs_Text_Encryption_Tool
+3. Install the required dependencies:
+   ```sh
    pip install -r requirements.txt
+4. Run the main script to start the application:
+   ```sh
    python encryption_tool.py
+**Technologies Used
+Python
+Tkinter for GUI
+PyCrypto for encryption algorithms**
+   
+   
